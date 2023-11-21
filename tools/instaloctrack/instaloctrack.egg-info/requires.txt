@@ -1,0 +1,7 @@
+coloredlogs
+enlighten
+jinja2
+pycountry
+pycountry_convert
+requests
+selenium

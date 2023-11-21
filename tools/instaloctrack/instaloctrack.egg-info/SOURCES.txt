@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+instaloctrack/__init__.py
+instaloctrack/instaloctrack.py
+instaloctrack.egg-info/PKG-INFO
+instaloctrack.egg-info/SOURCES.txt
+instaloctrack.egg-info/dependency_links.txt
+instaloctrack.egg-info/entry_points.txt
+instaloctrack.egg-info/requires.txt
+instaloctrack.egg-info/top_level.txt
+instaloctrack/templates/template.html
