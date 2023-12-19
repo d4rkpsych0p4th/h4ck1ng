@@ -1,0 +1,11 @@
+GET /dashboard.php?search=a HTTP/1.1
+Host: 10.129.202.59
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: close
+Referer: http://10.129.202.59/dashboard.php?search=%27+OR+%3D%271%27
+Cookie: PHPSESSID=7ui1po5mn2vva38hh0muqllr79
+Upgrade-Insecure-Requests: 1
+

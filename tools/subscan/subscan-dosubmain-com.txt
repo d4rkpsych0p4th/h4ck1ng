@@ -1,0 +1,4 @@
+
+[H[2J[3J
+ [1;27mSearching for subdomains of[0;0m [4;2ming.com[0;0m
+[1;32m Loading...[0;0m

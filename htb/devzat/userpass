@@ -1,0 +1,37 @@
+ "results": [
+        {
+            "series": [
+                {
+                    "columns": [
+                        "time",
+                        "enabled",
+                        "password",
+                        "username"
+                    ],
+                    "name": "user",
+                    "values": [
+                        [
+                            "2021-06-22T20:04:16.313965493Z",
+                            false,
+                            "WillyWonka2021",
+                            "wilhelm"
+                        ],
+                        [
+                            "2021-06-22T20:04:16.320782034Z",
+                            true,
+                            "woBeeYareedahc7Oogeephies7Aiseci",
+                            "catherine"
+                        ],
+                        [
+                            "2021-06-22T20:04:16.996682002Z",
+                            true,
+                            "RoyalQueenBee$",
+                            "charles"
+                        ]
+                    ]
+                }
+            ],
+            "statement_id": 0
+        }
+    ]
+}

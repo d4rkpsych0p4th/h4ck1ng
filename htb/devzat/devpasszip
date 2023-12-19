@@ -1,0 +1,17 @@
+path := args[0]
+< 	pass := args[1]
+< 
+< 	// Check my secure password
+< 	if pass != "CeilingCatStillAThingIn2021?" {
+< 		u.system("You did provide the wrong password")
+< 		return
+< 	}
+< 
+< 	// Get CWD
+< 	cwd, err := os.Getwd()
+< 	if err != nil {
+< 		u.system(err.Error())
+< 	}
+< 
+< 	// Construct path to print
+< 	printPath := filepath.Join(cwd, path)
